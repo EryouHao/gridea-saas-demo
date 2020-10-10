@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://gs-demo.fehey.now.sh</id>
+    <title>海岛心hey</title>
+    <updated>2020-10-10T03:16:34.543Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://gs-demo.fehey.now.sh"/>
+    <link rel="self" href="https://gs-demo.fehey.now.sh/atom.xml"/>
+    <subtitle>Hi, 我是海岛心hey，这里是我的个人网站，我在这里记录关于产品、设计、前端相关的内容</subtitle>
+    <logo>https://gs-demo.fehey.now.sh/images/avatar.png</logo>
+    <icon>https://static.gridea.dev/eryouhao/0dfa8395-530b-4cb9-866e-24888f454374.ico</icon>
+    <rights>All rights reserved 2020, 海岛心hey</rights>
+    <entry>
+        <title type="html"><![CDATA[一篇 Markdown 文章]]></title>
+        <id>https://https://gs-demo.fehey.now.sh/an-markdown-post</id>
+        <link href="https://https://gs-demo.fehey.now.sh/an-markdown-post"/>
+        <updated>2020-08-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>拖了很久，本来计划在 7 月发布的产品，一直拖到了 8 月中旬还没有什么动静。<br>
+1234567890<br>
+1111111111<br>
+WWWWWWWWWW<br>
+wwwwwwwwww<br>
+aaaaaaaaaa</p>
+<blockquote>
+<p>人近中年，身不由己。</p>
+</blockquote>
+<p>我还是个孩子，给我个<strong>拥抱</strong>好不好？</p>
+<h2 id="让我们来写一个标题">让我们来写一个标题</h2>
+<p>非常好，也许这是一个划时代的产品</p>
+<h2 id="一个标题不够那就两个">一个标题不够，那就两个</h2>
+<p>你咋这么秀呢？</p>
+<p>拖了很久，本来计划在 7 月发布的产品，一直拖到了 8 月中旬还没有什么动静。</p>
+<blockquote>
+<p>人近中年，身不由己。</p>
+</blockquote>
+<p>一张美图<br>
+<img src="https://images.unsplash.com/photo-1593642702909-dec73df255d7?ixlib=rb-1.2.1&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjM2MzIyfQ" alt="风景图"></p>
+<p>我还是个孩子，给我个<strong>拥抱</strong>好不好？</p>
+<h2 id="让我们来写一个标题-2">让我们来写一个标题</h2>
+<p>非常好，也许这是一个划时代的产品</p>
+<h2 id="一个标题不够那就两个-2">一个标题不够，那就两个</h2>
+<p>你咋这么秀呢？</p>
+<p>各类型的文本都写一下：</p>
+<h2 id="链接">链接</h2>
+<p><a href="https://gridea.dev">Gridea</a> 这个链接样式不错，如果是特别长的呢，会是怎么样呢？来让我们测试一个<a href="https://sspai.com/post/62674">iOS 14 和 iPadOS 14 来了，升级后先来看看这些新功能</a></p>
+<hr>
+<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<!-- more -->
+<p><a href="https://github.com/getgridea/gridea">Github</a><br>
+<a href="https://gridea.dev/">Gridea 主页</a><br>
+<a href="http://fehey.com/">示例网站</a></p>
+<h2 id="特性">特性👇</h2>
+<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
+<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
+<p>🏷️  你可以对文章进行标签分组</p>
+<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
+<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
+<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
+<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
+<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
+<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
+<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
+<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
+<p>未来，它一定会成为你离不开的伙伴</p>
+<p>尽情发挥你的才华吧！</p>
+<p>😘 Enjoy~<br>
+一段<br>
+两端</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你好，世界]]></title>
+        <id>https://https://gs-demo.fehey.now.sh/ni-hao-shi-jie</id>
+        <link href="https://https://gs-demo.fehey.now.sh/ni-hao-shi-jie"/>
+        <updated>2020-05-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[你好，世界他来了，他来了，他带着编辑功能走来了cool～我今年的新年决心之一是写更多博客。我从头开始重新构建了博客。这是之前/之后：这次重建有很多目标，但是主要目的是给我一个我可以更认真地使用的平台。尽管它仍然是个人博客，但我希望它看起来更...]]></summary>
+        <content type="html"><![CDATA[<p>你好，世界</p><p>他来了，他来了，他带着编辑功能走来了</p><p>cool～</p><blockquote><p>我今年的新年决心之一是写更多博客。我从头开始重新构建了博客。这是之前/之后：</p></blockquote><p>这次重建有很多目标，但是主要目的是给我一个我可以更认真地使用的<a href="https://gridea.dev" rel="noopener noreferrer" target="_blank">平台</a>。尽管它仍然是个人博客，但我希望它看起来更像是一个社区资源，人们逐渐将其视为优质教程和文章的良好来源。</p><p>该目标的很大一部分是定期发布！我设定的目标是每周至少发布 1 条帖子。自发布以来，我一直努力实现这一目标，并希望保持这一趋势。</p><p>尽管我的读者已经接受了大多数更改，但是有一个更改使一些人感到惊讶：我的新博客不是开源的。我对此有很多疑问，并认为解决这个问题并分享我的一些推理 😊</p><h2 id="jiang-di-mo-ca">降低摩擦</h2><p>其中很大一部分是围绕摩擦。为了使新帖子的发布速度保持较高水平，我需要发布时尽可能做到轻松自如。拥有一个开源博客会在某些方面增加摩擦。</p><h3 id="yuan-dai-ma-kong-zhi">源代码控制</h3><p>我的博客使用 MDX，一种 Markdown 的精美版本，可让我嵌入 React 组件。这些帖子会被检入 Git 存储库中，而不是存储在 CMS 中。</p><p>每个帖子顶部都有个 <code>isPublished</code> 的布尔值。在任何给定的时刻，我都有 1 至 5 个草稿职位。有时，草稿会持续数周，然后我才能完成并发布它！</p><p>如果此博客是开源的，那么所有这些草案都是公开的。我不喜欢这个注意 😂 我想控制帖子何时公开发布！</p><p>有解决方案。我可以将帖子保存在单独的仓库中，也可以使用 Git 子模块。但是，这会使我的过程复杂化。而且过程越复杂，我从事该过程的动力就越低。</p><h2 id="ji-hua-gan-bu-shang">计划赶不上</h2><p>由于这些原因，我现在暂时将博客保持闭源状态。</p><p>我认识到这对于那些看到很棒的东西并想知道我是如何做到的人来说实在是太可惜了。但是我确实有针对这种情况的计划！</p><p>我宁愿为详细的功能编写详细的教程，也不愿开源庞大而混乱的代码库。这已经开始，请查看以下帖子：</p><ol><li><p>追求完美的黑暗模式，适用于现场的明暗模式逻辑</p></li><li><p>使用 CSS 计数器，以用于有序列表（例如这个！）</p></li><li><p>神奇的彩虹渐变，用于时事通讯的“订阅”按钮</p></li></ol><p>我喜欢这个策略，因为它是如此明确。使用此博客中的大多数代码，大量的上下文仅存在于我的脑海中。如果您要仔细阅读代码，则必须填写该上下文，这可能会导致问题。这样，我可以指导您了解事物的工作方式，权衡因素，局限性。包括上下文。</p><p>我有<em>很多</em>想写的东西。<code>VennDiagram</code> 前面的组件在该列表上！我们会在适当的时候到达那里 😊</p><pre><code>ol {
+  counter-reset: cupcake;
+  padding-left: 32px
+}
+ol li {
+  counter-increment: cupcake
+}
+ol li:before {
+  content: counters(cupcake, '.') ' '
+  /* Whatever custom styles you want here */
+  color: hotpink
+  font-weight: bold;
+  font-family: cursive;
+}</code></pre><p>试一下移动端写作，嗯……是一个又不是不能用的状态 <code>hello world</code></p><p><img src="https://static.gridea.dev/eryouhao/84af90c2-aec9-485e-ab93-9f4f1a76405f.jpg"></p><p>这么棒的吗？来自iPad 的编辑</p><p>自动链接：<a href="https://gridea.dev" rel="noopener noreferrer" target="_blank">https://gridea.dev</a></p><p>添加一个图片试一试</p><p>添加成功了，还是不错的</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么我的博客]]></title>
+        <id>https://https://gs-demo.fehey.now.sh/why-my-blog-is-closed-source</id>
+        <link href="https://https://gs-demo.fehey.now.sh/why-my-blog-is-closed-source"/>
+        <updated>2020-05-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[我今年的新年决心之一是写更多博客。我从头开始重新构建了博客。这是之前/之后：这次重建有很多目标，但是主要目的是给我一个我可以更认真地使用的平台。尽管它仍然是个人博客，但我希望它看起来更像是一个社区资源，人们逐渐将其视为优质教程和文章的良好来...]]></summary>
+        <content type="html"><![CDATA[<p>我今年的新年决心之一是写更多博客。我从头开始重新构建了博客。这是之前/之后：</p><p>这次重建有很多目标，但是主要目的是给我一个我可以更认真地使用的平台。尽管它仍然是个人博客，但我希望它看起来更像是一个社区资源，人们逐渐将其视为优质教程和文章的良好来源。</p><p>该目标的很大一部分是定期发布！我设定的目标是每周至少发布 1 条帖子。自发布以来，我一直努力实现这一目标，并希望保持这一趋势。</p><p>尽管我的读者已经接受了大多数更改，但是有一个更改使一些人感到惊讶：我的新博客不是开源的。我对此有很多疑问，并认为解决这个问题并分享我的一些推理 😊</p><h2>降低摩擦</h2><p>其中很大一部分是围绕摩擦。为了使新帖子的发布速度保持较高水平，我需要发布时尽可能做到轻松自如。拥有一个开源博客会在某些方面增加摩擦。</p><h3>源代码控制</h3><p>我的博客使用 MDX，一种 Markdown 的精美版本，可让我嵌入 React 组件。这些帖子会被检入 Git 存储库中，而不是存储在 CMS 中。</p><p>每个帖子顶部都有个 <code>isPublished</code> 的布尔值。在任何给定的时刻，我都有 1 至 5 个草稿职位。有时，草稿会持续数周，然后我才能完成并发布它！</p><p>如果此博客是开源的，那么所有这些草案都是公开的。我不喜欢这个注意 😂 我想控制帖子何时公开发布！</p><p>有解决方案。我可以将帖子保存在单独的仓库中，也可以使用 Git 子模块。但是，这会使我的过程复杂化。而且过程越复杂，我从事该过程的动力就越低。</p><h2>计划</h2><p>由于这些原因，我现在暂时将博客保持闭源状态。</p><p>我认识到这对于那些看到很棒的东西并想知道我是如何做到的人来说实在是太可惜了。但是我确实有针对这种情况的计划！</p><p>我宁愿为详细的功能编写详细的教程，也不愿开源庞大而混乱的代码库。这已经开始，请查看以下帖子：</p><ol><li><p>追求完美的黑暗模式，适用于现场的明暗模式逻辑</p></li><li><p>使用 CSS 计数器，以用于有序列表（例如这个！）</p></li><li><p>神奇的彩虹渐变，用于时事通讯的“订阅”按钮</p></li></ol><p>我喜欢这个策略，因为它是如此明确。使用此博客中的大多数代码，大量的上下文仅存在于我的脑海中。如果您要仔细阅读代码，则必须填写该上下文，这可能会导致问题。这样，我可以指导您了解事物的工作方式，权衡因素，局限性。包括上下文。</p><p>我有<em>很多</em>想写的东西。<code>VennDiagram</code> 前面的组件在该列表上！我们会在适当的时候到达那里 😊</p><pre><code>ol {
+  counter-reset: cupcake
+  padding-left: 32px
+}
+ol li {
+  counter-increment: cupcake
+}
+ol li:before {
+  content: counters(cupcake, '.') ' '
+  /* Whatever custom styles you want here */
+  color: hotpink;
+  font-weight: bold;
+  font-family: cursive;
+}</code></pre><p></p><p></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://https://gs-demo.fehey.now.sh/about</id>
+        <link href="https://https://gs-demo.fehey.now.sh/about"/>
+        <updated>2020-05-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[我就是我，不一样的烟火]]></summary>
+        <content type="html"><![CDATA[<p>我就是我，不一样的烟火</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[测试]]></title>
+        <id>https://https://gs-demo.fehey.now.sh/ce-shi</id>
+        <link href="https://https://gs-demo.fehey.now.sh/ce-shi"/>
+        <updated>2020-05-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[测试更新成功啦]]></summary>
+        <content type="html"><![CDATA[<p>测试</p><p>更新成功啦</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一篇带 tag 的文章]]></title>
+        <id>https://https://gs-demo.fehey.now.sh/yi-pian-dai-tag-de-wen-zhang</id>
+        <link href="https://https://gs-demo.fehey.now.sh/yi-pian-dai-tag-de-wen-zhang"/>
+        <updated>2020-05-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[内容]]></summary>
+        <content type="html"><![CDATA[<p>内容</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Notion 个人版计划免费啦！]]></title>
+        <id>https://https://gs-demo.fehey.now.sh/notion-personal</id>
+        <link href="https://https://gs-demo.fehey.now.sh/notion-personal"/>
+        <updated>2020-05-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2020.05.19 Notion 在 Twitter 宣布其 Personal 版本永久免费了，在这之前，个人版是有 1000 block 的限制。https://www.notion.so/personal套餐包含：不限制页面和 blo...]]></summary>
+        <content type="html"><![CDATA[<p>2020.05.19 Notion 在 Twitter 宣布其 Personal 版本永久免费了，在这之前，个人版是有 1000 block 的限制。</p><p><a href="https://www.notion.so/personal" rel="noopener noreferrer nofollow">https://www.notion.so/personal</a></p><p>套餐包含：</p><ul><li><p>不限制页面和 blocks</p></li><li><p>最多可以与 5 个访客进行分享</p></li><li><p>多设备同步</p></li></ul><p>而原来的收费方案升级为 Personal Pro，增加了 API access 的能力，千呼万唤使出来的 feature 呀</p><blockquote><p>融资是真的有用！</p></blockquote><p></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[时光拾遗]]></title>
+        <id>https://https://gs-demo.fehey.now.sh/hello-grideaer</id>
+        <link href="https://https://gs-demo.fehey.now.sh/hello-grideaer"/>
+        <updated>2020-05-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[你好，我是Gridea 的开发者郝二优console.log(“hello Grideaer”)你有什么想说的吗]]></summary>
+        <content type="html"><![CDATA[<p>你好，我是Gridea 的开发者郝二优</p><pre><code>console.log(“hello Grideaer”)</code></pre><p>你有什么想说的吗</p>]]></content>
+    </entry>
+</feed>
