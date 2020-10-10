@@ -37,7 +37,7 @@ body {
 .read-more {
   &::after {
     content: '→';
-    @apply text-indigo-700 font-light;
+    @apply text-indigo-700;
     margin-left: 2px;
     opacity: 0;
     transition: opacity 0.3s ease-in-out, margin-left 0.3s ease-in-out;
@@ -48,7 +48,9 @@ body {
   top: 148px;
   max-height: calc(100vh - 148px);
   width: 350px;
-  padding-left: 128px;
+  padding-left: 64px;
+  margin-left: -350px;
+  transform: translateX(350px);
 
   > ul {
     @apply -ml-2;
@@ -58,7 +60,7 @@ body {
     @apply pl-2;
   }
   li a {
-    @apply text-sm mt-2 text-gray-700 opacity-75 font-light ;
+    @apply text-sm mt-2 text-gray-700 opacity-75;
     display: block;
     text-decoration: none;
     transition: opacity 500ms ease 0s;
