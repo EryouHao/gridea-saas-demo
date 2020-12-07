@@ -1,0 +1,73 @@
+@tailwind base;
+@tailwind components;
+
+@tailwind utilities;
+
+@import '../../../../../common/themes/default/post.less';
+
+html {
+  -webkit-tap-highlight-color: transparent;
+  -webkit-font-smoothing: antialiased;
+  word-break: break-word;
+  text-rendering: optimizeSpeed;
+}
+
+body {
+  line-height: 1.6;
+}
+
+.post-item {
+  .post-title {
+    transition: color 0.3s ease-in-out;
+    @apply font-medium;
+  }
+  &:hover {
+    .post-title {
+      @apply text-indigo-700;
+    }
+    .read-more {
+      &::after {
+        opacity: 1;
+        margin-left: 4px;
+      }
+    }
+  }
+}
+
+.read-more {
+  &::after {
+    content: '→';
+    @apply text-indigo-700;
+    margin-left: 2px;
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out, margin-left 0.3s ease-in-out;
+  }
+}
+
+.toc-container {
+  top: 148px;
+  max-height: calc(100vh - 148px);
+  width: 350px;
+  padding-left: 64px;
+  margin-left: -350px;
+  transform: translateX(350px);
+
+  > ul {
+    @apply -ml-2;
+  }
+
+  ul {
+    @apply pl-2;
+  }
+  li a {
+    @apply text-sm mt-2 text-gray-700 opacity-75;
+    display: block;
+    text-decoration: none;
+    transition: opacity 500ms ease 0s;
+  }
+}
+
+.post-content {
+  
+}
+
